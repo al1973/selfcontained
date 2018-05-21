@@ -7,3 +7,4 @@ tags:
 weight: -250
 slug: first
 ---
+![moss](/static/moss.jpg)
