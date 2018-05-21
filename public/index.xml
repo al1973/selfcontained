@@ -2,29 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on self-contained</title>
-    <link>http://www.example.com/</link>
+    <link>http://self-contained.netlify.com/</link>
     <description>Recent content in Home on self-contained</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 07 Feb 2018 18:30:00 +0600</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://self-contained.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://www.example.com/post/first/</link>
+      <link>http://self-contained.netlify.com/post/first/</link>
       <pubDate>Wed, 07 Feb 2018 18:30:00 +0600</pubDate>
       
-      <guid>http://www.example.com/post/first/</guid>
+      <guid>http://self-contained.netlify.com/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://self-contained.netlify.com/post/second/</link>
+      <pubDate>Wed, 07 Feb 2018 18:30:00 +0600</pubDate>
+      
+      <guid>http://self-contained.netlify.com/post/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>http://self-contained.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>http://self-contained.netlify.com/contact/</guid>
       <description>Contact us with your ideas. Send us a picture of your space, get our advice.</description>
     </item>
     
