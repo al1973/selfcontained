@@ -21,7 +21,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Gardens for the spatially challenged"
+description = "Garden solutions for the spatially challenged"
 title404 = "Nothing's here!"
 
 [params.assets]
