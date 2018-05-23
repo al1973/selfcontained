@@ -5,26 +5,26 @@
     <link>http://self-contained.netlify.com/post/</link>
     <description>Recent content in Posts on self-contained</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Feb 2018 18:30:00 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 18:30:00 +0600</lastBuildDate>
     
 	<atom:link href="http://self-contained.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>http://self-contained.netlify.com/post/first/</link>
-      <pubDate>Wed, 07 Feb 2018 18:30:00 +0600</pubDate>
+      <title>Pre-planted containers</title>
+      <link>http://self-contained.netlify.com/post/preplanted/</link>
+      <pubDate>Thu, 17 May 2018 18:30:00 +0600</pubDate>
       
-      <guid>http://self-contained.netlify.com/post/first/</guid>
-      <description>Image not showing</description>
+      <guid>http://self-contained.netlify.com/post/preplanted/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Second Post</title>
-      <link>http://self-contained.netlify.com/post/second/</link>
-      <pubDate>Wed, 07 Feb 2018 18:30:00 +0600</pubDate>
+      <title>Plants resistant to air pollution</title>
+      <link>http://self-contained.netlify.com/post/pollution/</link>
+      <pubDate>Mon, 07 May 2018 18:30:00 +0600</pubDate>
       
-      <guid>http://self-contained.netlify.com/post/second/</guid>
+      <guid>http://self-contained.netlify.com/post/pollution/</guid>
       <description></description>
     </item>
     
