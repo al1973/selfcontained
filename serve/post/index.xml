@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on self-contained</title>
-    <link>http://self-contained.netlify.com/</link>
-    <description>Recent content in Home on self-contained</description>
+    <title>Posts on self-contained</title>
+    <link>http://self-contained.netlify.com/post/</link>
+    <description>Recent content in Posts on self-contained</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 17 May 2018 18:30:00 +0600</lastBuildDate>
     
-	<atom:link href="http://self-contained.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://self-contained.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cats with Talent Program</title>
+      <link>http://self-contained.netlify.com/post/cats-got-talent/</link>
+      <pubDate>Thu, 17 May 2018 18:30:00 +0600</pubDate>
+      
+      <guid>http://self-contained.netlify.com/post/cats-got-talent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pre-planted containers</title>
@@ -26,17 +35,6 @@
       
       <guid>http://self-contained.netlify.com/post/pollution/</guid>
       <description>  Moss Art   </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://self-contained.netlify.com/contact/</link>
-      <pubDate>Thu, 17 May 2018 18:30:00 +0600</pubDate>
-      
-      <guid>http://self-contained.netlify.com/contact/</guid>
-      <description>Contact us with your ideas. Send us a picture of your space, get our advice&amp;hellip;
-Let&amp;rsquo;s start the ball rolling today.
-Simply send us an email.</description>
     </item>
     
   </channel>

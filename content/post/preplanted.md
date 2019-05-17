@@ -1,10 +1,6 @@
 ---
-date: 2018-05-17T18:30:00+06:00
-lastmod: 2018-05-172T02:30:00+06:00
-title: Pre-planted containers
-categories:
-tags:
-weight: -250
-slug: preplanted
+title: "Pre-planted Containers"
+date: 2019-05-17T11:56:47+01:00
+
 ---
 
