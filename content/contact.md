@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2018-05-17T18:30:00+06:00
-description: Contact info
+
 menu: main
 weight: -210
 ---
