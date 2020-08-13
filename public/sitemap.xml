@@ -3,69 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://self-contained.netlify.com/</loc>
-    <lastmod>2019-05-17T12:05:30+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/</loc>
+    <lastmod>2020-08-13T08:44:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/</loc>
-    <lastmod>2019-05-17T12:05:30+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/</loc>
+    <lastmod>2020-08-13T08:44:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/contact/</loc>
+    <loc>https://self-contained.netlify.app/contact/</loc>
     <lastmod>2018-05-17T18:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/cats/</loc>
-    <lastmod>2019-05-17T12:05:30+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/tlawns/</loc>
+    <lastmod>2020-08-13T08:44:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/fertizizers/</loc>
-    <lastmod>2019-05-17T11:58:48+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/cats/</loc>
+    <lastmod>2020-08-13T08:43:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/kokedama/</loc>
-    <lastmod>2019-05-17T11:58:23+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/preplanted/</loc>
+    <lastmod>2020-08-13T08:42:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/hydroponics/</loc>
-    <lastmod>2019-05-17T11:57:42+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/pollution/</loc>
+    <lastmod>2020-08-13T08:42:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/preplanted/</loc>
-    <lastmod>2019-05-17T11:56:47+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/minimumwater/</loc>
+    <lastmod>2020-08-13T08:41:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/minimumwater/</loc>
-    <lastmod>2019-05-17T11:46:09+01:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/kokedama/</loc>
+    <lastmod>2020-08-13T08:41:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/post/pollution/</loc>
-    <lastmod>2018-05-07T18:30:00+06:00</lastmod>
+    <loc>https://self-contained.netlify.app/post/hydroponics/</loc>
+    <lastmod>2020-08-13T08:41:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/authors/</loc>
+    <loc>https://self-contained.netlify.app/post/fertilizers/</loc>
+    <lastmod>2020-08-13T08:40:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/categories/</loc>
+    <loc>https://self-contained.netlify.app/authors/</loc>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/series/</loc>
+    <loc>https://self-contained.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://self-contained.netlify.com/tags/</loc>
+    <loc>https://self-contained.netlify.app/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://self-contained.netlify.app/tags/</loc>
   </url>
   
 </urlset>

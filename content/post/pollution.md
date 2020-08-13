@@ -1,8 +1,6 @@
 ---
-date: 2018-05-07T18:30:00+06:00
-title: Plants resistant to air pollution
-
-slug: pollution
+title: "Pollution"
+date: 2020-08-13T08:42:04+01:00
+draft: true
 ---
-
 
