@@ -2,6 +2,8 @@
 title: "Mycorrhizal Fungi"
 date: 2020-12-12T14:38:35+01:00
 ---
+![Phyllis Ma Berlin Blewit](https://res.cloudinary.com/djd5xu1es/image/upload/v1607803783/berlin_blewit_wt5psd.jpg)
+
 Mycorrhizas are the fungal associations that form between plant roots and beneficial fungi in the soil. They enable plants to obtain nutrients through a bi-directional exchange&mdash;carbon from plant to the fungus, and soil nutrients, mainly phosporous and nitrogen, from the fungus to plant. Mushrooms are only the fruiting bodies of fungi: beneath the surface is a vast mycelial network. The term mycorrhizal comes from the Greek words mykes, meaning fungus, and rhiza, meaning root. 
 
 
@@ -27,7 +29,7 @@ Mycorrhizal diversity is important. Natural areas generally contain an array of 
 **Articles:**
 
 [&ldquo;Mycorrhizal Management&ndash;A Look Beneath the Surface at Plant Establishment and Growth&rdquo; by Michael P. Amaranthus](https://fungi.com/blogs/articles/mycorrhizal-management)  
-[&ldquo;Mushrooms, the Last Survivors&rdquo; By Ligaya Mishan](https://www.nytimes.com/2020/09/18/t-magazine/mushrooms-fashion-food-art.html?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)  
+[&ldquo;Mushrooms, the Last Survivors&rdquo; by Ligaya Mishan](https://www.nytimes.com/2020/09/18/t-magazine/mushrooms-fashion-food-art.html?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)  
 
 **Websites:**
 
