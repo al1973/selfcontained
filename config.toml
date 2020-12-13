@@ -50,6 +50,12 @@ hideMainMenu = false
 [params.sidebar]
 enable = true
 
+
+[param.recent_posts]
+title = "testing"                           
+length = 4                            
+excludeTypes = ["page"]  
+
 [params.widgets]
 homepage = []
 sidebar = ["about", "recent_posts"]
