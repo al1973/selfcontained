@@ -5,7 +5,16 @@
     <link>https://self-contained.netlify.app/post/</link>
     <description>Recent content in Posts on self-contained</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Dec 2020 14:38:35 +0100</lastBuildDate><atom:link href="https://self-contained.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 08:44:11 +0100</lastBuildDate><atom:link href="https://self-contained.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tapestry Lawns</title>
+      <link>https://self-contained.netlify.app/post/tapestry-lawns/</link>
+      <pubDate>Sun, 13 Dec 2020 08:44:11 +0100</pubDate>
+      
+      <guid>https://self-contained.netlify.app/post/tapestry-lawns/</guid>
+      <description>Tapestry lawns are grass-free lawns. By excluding grasses, other suitable plant can be used to produce an alternative to conventional monoculture turf lawns. Tapestry lawns produce more flowers, contain more life, and attract many pollinators. They require little mowing, absorb rain and need no fertilisers. Grass-free tapestry lawns use specific mowing tolerant plants instead of grass. They provide a source of nectar and pollen for more species of pollinators than grass lawns and commercial ‘flower lawns’.</description>
+    </item>
+    
     <item>
       <title>Mycorrhizal Fungi</title>
       <link>https://self-contained.netlify.app/post/mycorrhizal-fungi/</link>
@@ -30,15 +39,6 @@
       <pubDate>Sat, 12 Dec 2020 12:46:51 +0000</pubDate>
       
       <guid>https://self-contained.netlify.app/post/microgreens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tapestry Lawns</title>
-      <link>https://self-contained.netlify.app/post/tlawns/</link>
-      <pubDate>Thu, 13 Aug 2020 08:44:11 +0100</pubDate>
-      
-      <guid>https://self-contained.netlify.app/post/tlawns/</guid>
       <description></description>
     </item>
     
