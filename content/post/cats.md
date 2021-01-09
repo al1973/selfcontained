@@ -1,7 +1,10 @@
 ---
 title: "Cats With Talent"
 date: 2020-08-13T08:43:40+01:00
-draft: true
+cover:
+  image: https://res.cloudinary.com/djd5xu1es/image/upload/c_scale,w_800/v1610204467/brownea_m057e1.jpg
+  alternate: Berlin Blewit
+  style: normal
 ---
 
 Join our Cats with Talent Program.  
