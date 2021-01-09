@@ -2,7 +2,7 @@
 title: "Tapestry Lawns"
 date: 2020-12-13T08:44:11+01:00
 cover:
-  image: https://res.cloudinary.com/djd5xu1es/image/upload/v1607957361/tapestry-lawn_x29e9r.jpg
+  image: https://res.cloudinary.com/djd5xu1es/image/upload/c_scale,w_800/v1610204467/brownea_m057e1.jpg
   alternate: No Grass Lawn
   style: normal
 ---
